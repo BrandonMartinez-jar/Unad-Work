@@ -1,10 +1,17 @@
 # Solución:
-- La ausencia de una HCE (Historia clínica electrónica) impide a los profesionales en optometría agilizar los procesos de atención, diagnóstico y tratamiento de sus pacientes.
-- Mi proyecto se basa en satisfacer la necesidad de estructurar un sistema que permita la automatización del manejo de la información de la historia clínica del paciente, por medio del diseño de un software con interfaz de una usuario.
-Este proceso requiere que los actos de cada profesional y las características de cada paciente estén almacenados en el sistema de información y de las herramientas para agilizar el proceso de servicio y atención del paciente desde el momento en el que sea remitido al centro optómetra y que su cita sea agendada oportunamente.
-- Sector de la salúd, especialidad optometría.
-- Este proyecto aporta en el area de ingeniería de sistemas al involucrarse en el area de la salud apoyando en este caso a optometras profesionales, optimizando su trabajo y por ende la cantidad de pacientes que atienden manteniendo la calidad en la atención para cada uno de ellos.
-- Diseñar un sistema de información que facilite al paciente el agendamiento de cita, que facilite al profesional el proceso de anamnesis, optimizando así el flujo de atención al paciente.
-- Diseñar una aplicación que le permita al profesional agilizar el proceso de atención del paciente desde el momento que es remitido hasta que le sea entregada la prescripción de lentes.
-- El proyecto debe ser desarrollado antes del día 10 de diciembre del presente año, así mismo debe solucionar la problematica planteada teniendo en cuenta el alcance del proyecto.
-- Profesional de optometría y paciente
+
+- ¿Qué problema u oportunidad va a cubrir mi proyecto?: La ausencia de una HCE (Historia clínica electrónica) impide a los profesionales en optometría agilizar los procesos de atención, diagnóstico y tratamiento de sus pacientes.
+
+- ¿Qué necesidad intenta subsanar?: Mi proyecto se basa en satisfacer la necesidad de automatizar el manejo de la información de la historia clínica del paciente, Este proceso requiere que los actos de cada profesional y las características de cada paciente sean almacenados para agilizar el proceso de servicio y atención del paciente desde el momento en el que sea remitido al centro optómetra y que su cita sea agendada oportunamente.
+
+- Para que empresa, entidad o sector va dirigida: Sector de la salúd, especialidad optometría.
+
+- Justificación ¿Por qué el proyecto es necesario para el área de ingeniería de sistemas?: Nosotros como ingenieros de sistemas bucamos proyectos que impacten a la comunidad que nos rodea, ayudando diseñar soluciones para las diferentes problemáticas, realizando una deconstrucción de sus procesos y aplicando así optimización utilizando como base la teoría general de sistemas, permitiendonos aplicarlas a otras áreas, como en ese caso, la optometría, buscando optimizar así la cantidad de pacientes que son atendidos y mejorando la calidad y presición del servicio.
+
+- Alcance del proyecto: Diseñar un sistema de información que facilite al paciente el agendamiento de cita, que facilite al profesional el proceso de anamnesis, optimizando así el flujo de atención al paciente.
+
+- Objetivo general del proyecto: Diseñar una aplicación que le permita al profesional agilizar el proceso de atención del paciente desde el momento que es remitido.
+
+- Criterios de éxito del proyecto: Para que el proyecto se considere exitoso se pasará a través de un proceso de calculo de métricas como el tiempo ahorrado en consulta, encuestas de satisfacción y acceso agil a la información de la historia clinica del paciente durante la consulta.
+
+- Actores principales: Profesional de optometría y paciente
