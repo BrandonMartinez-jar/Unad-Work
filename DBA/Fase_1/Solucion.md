@@ -69,3 +69,10 @@ Es una manera gráfica de representar el planeamiento de una base de datos expon
 - La entidad pedido tiene relación muchos a muchos con la entidad producto, de tal manera que un pedido puede tener muchos productos y los productos pueden estar en muchos pedidos, usando la entidad auxiliar (pedido_producto), la cual tiene un atibuto adicional que hace referencia a la lista de productos que se pide, la cantidad de cada producto que se pidió y esto permite después realizar el calculo utilizando el precio actual que contiene la entidad producto.
 - Así mismo la entidad factura tiene una relación muchos a uno con las entidades pedido, vendedor y cliente, (como el enunciado lo pide, aunque yo en vez de darle un id auto generado con un numero consecutivo usaría una relación uno a uno con la entidad pedido, de tal manera que un pedido no se pueda facturar más de una vez), al relacionarse con la tabla pedido se puede acceder a su relación con la tabla producto y calcular el precio total como lo había explicado antes.
 
+## Referencias bibliográficas
+
+- Curso de Fundamentos de Bases de Datos. (s. f.). http://platzi.com/cursos/bd/. Recuperado 3 de septiembre de 2022, de http://platzi.com/cursos/bd/
+- Database_foundations_course_es.pdf. (s. f.). Recuperado 3 de septiembre de 2022, de https://academy.oracle.com/pages/database_foundations_course_es.pdf
+- Guia-Normas-APA-7ma-edicion.pdf. (s. f.). Recuperado 3 de septiembre de 2022, de https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf
+
+
