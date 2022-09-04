@@ -60,3 +60,33 @@ El nivel de eficacia y eficiencia con que el software es actualizado.
 ### -	Transferibilidad
 El nivel en que un sistema o componente transferido de un hardware o software operativo a otro.
 
+## Marcos normativos relacionados con la calidad del software
+
+### - NORMAS ISO/IEC ISO 12207:
+Especifica los Modelos de Ciclos de Vida del Software, estandariza los procesos de ciclo de vida del software de las organizaciones, se creó para los interesados en compra de software, y para desarrolladores y proveedores. El estándar indica una serie de procesos desde la recopilación de requisitos hasta la culminación del software. 
+
+### - NORMAS ISO/IEC 9126 de 1991:
+Es la norma que permite evaluar los productos de software, esta norma indica las características de la calidad y los lineamientos para su uso, las características de calidad y sus métricas asociadas, pueden ser útiles tanto como para evaluar el producto como para definir los requerimientos de la calidad y otros usos. Esta norma definida por un marco conceptual basado en los factores tales como Calidad del Proceso, Calidad del Producto del Software y Calidad en Uso; según el marco conceptual, la calidad del producto, a su vez, contribuye a mejorar la calidad en uso
+
+### - Estándar ISO/IEC 14598:
+es actualmente usado como base metodológica para la evaluación del producto software. En sus diferentes etapas, establece un marco de trabajo para evaluar la calidad de los productos de software proporcionando, además, métricas y requisitos para los procesos de evaluación de los mismos. La norma define las principales características del proceso de evaluación Repetitividad. Reproducibilidad. Imparcialidad. Objetividad.
+
+### -	Norma ISO/IEC 25000 (SquaRE) ISO 25000:
+2005 (SQuaRE -Software Quality Requirements and Evaluation) es una nueva serie de normas que se basa en ISO 9126 y en ISO 14598 (Evaluación del software). Uno de los principales objetivos de la serie SQuaRE es la coordinación y armonización del contenido de ISO 9126 y de ISO 15939:2002 (Measurement Information Model). 
+
+### -	Norma ISO 15939:
+tiene un modelo de información que ayuda a determinar que se debe especificar durante la planificación, performance y evaluación de la medición. Para su aplicación, cuenta con los siguientes pasos: Recopilar los datos, Preparación de los datos y Análisis de los datos.
+
+## Modelos de calidad de software
+![image](https://user-images.githubusercontent.com/76891236/188328891-678c41b9-7d0f-43e8-b4d7-eac3471da1fa.png)
+
+## Conclusiones
+-	Existen normas y estándares de calidad para el desarrollo de software que facilitan la realización de los proyectos porque indican los pasos para que los proyectos sean más eficientes
+-	Las etapas del ciclo de vida del desarrollo de software son fase de planificación, fase de análisis, fase de diseño, fase de desarrollo, fase de integración y periodo de pruebas, fase de implementación y fase de mantenimiento
+-	La automatización de pruebas de software consiste en realizar pruebas o test de manera automática, gestionando los datos con el fin de optimizar la calidad del software en desarrollo.
+
+## Referencias bibliográficas:
+- eduardo89. (01:51:44 UTC). EstáNdares De Calidad Aplicadas Al Software. https://es.slideshare.net/eduardo89/estndares-de-calidad-aplicadas-al-software
+- GreenSQA. (2018, marzo 17). [Infografía] Automatización de Pruebas de Software—GreenSQA - Pruebas de Software y Aseguramiento de la calidad. GreenSQA. - -------https://greensqa.com/infografia-automatizacion-de-pruebas-de-software/
+karron10. (2013, abril 14). Normas y estándares en proyectos de TI. karron10. https://karron10.wordpress.com/2013/04/14/normas-y-estandares-en-proyectos-de-ti-2/
+Rivera, P. por C. M. P. (s. f.). ESTÁNDARES Y MODELOS DE CALIDAD DEL SOFTWARE. Recuperado 4 de septiembre de 2022, de http://evaluaciondesoftware2013.blogspot.com/
