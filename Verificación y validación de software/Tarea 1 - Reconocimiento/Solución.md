@@ -87,6 +87,6 @@ tiene un modelo de información que ayuda a determinar que se debe especificar d
 
 ## Referencias bibliográficas:
 - eduardo89. (01:51:44 UTC). EstáNdares De Calidad Aplicadas Al Software. https://es.slideshare.net/eduardo89/estndares-de-calidad-aplicadas-al-software
-- GreenSQA. (2018, marzo 17). [Infografía] Automatización de Pruebas de Software—GreenSQA - Pruebas de Software y Aseguramiento de la calidad. GreenSQA. - -------https://greensqa.com/infografia-automatizacion-de-pruebas-de-software/
-karron10. (2013, abril 14). Normas y estándares en proyectos de TI. karron10. https://karron10.wordpress.com/2013/04/14/normas-y-estandares-en-proyectos-de-ti-2/
-Rivera, P. por C. M. P. (s. f.). ESTÁNDARES Y MODELOS DE CALIDAD DEL SOFTWARE. Recuperado 4 de septiembre de 2022, de http://evaluaciondesoftware2013.blogspot.com/
+- GreenSQA. (2018, marzo 17). [Infografía] Automatización de Pruebas de Software—GreenSQA - Pruebas de Software y Aseguramiento de la calidad. GreenSQA. https://greensqa.com/infografia-automatizacion-de-pruebas-de-software/
+- karron10. (2013, abril 14). Normas y estándares en proyectos de TI. karron10. https://karron10.wordpress.com/2013/04/14/normas-y-estandares-en-proyectos-de-ti-2/
+- Rivera, P. por C. M. P. (s. f.). ESTÁNDARES Y MODELOS DE CALIDAD DEL SOFTWARE. Recuperado 4 de septiembre de 2022, de http://evaluaciondesoftware2013.blogspot.com/
