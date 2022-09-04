@@ -1,4 +1,4 @@
-#La actividad consiste en:
+# La actividad consiste en:
 
 1. Teniendo en cuenta sus conocimientos previos en bases de datos se debe dar respuesta a los siguientes interrogantes con sus propias palabras y en caso de tomar como base a un autor hacer referencia de este; cada respuesta debe tener mínimo 50 palabras y máximo 100 palabras.
   a. ¿Qué es una entidad y sus características?
@@ -9,7 +9,7 @@
   
 2. Leer detenidamente el siguiente planteamiento del problema, con la finalidad de diseñar el diagrama entidad relación teniendo en cuenta la identificación de las entidades, atributos y relaciones.
 
-##ENUNCIADO DEL PROBLEMA
+## ENUNCIADO DEL PROBLEMA
  
 La empresa RYSCO se encuentra situada en el departamento de ATLANTICO, en la localidad BARRANQUILLA. la empresa RYSCO se dedica a la fabricación de materiales médicos y odontológicos como cubrebocas. Debido a la pandemia que padece el mundo con el virus SARS-CoV-2, es una especie de coronavirus que causa el síndrome respiratorio agudo grave, las ventas registradas durante el año 2020 y 2021 han sido crecientes respecto a años anteriores, dada a la necesidad de compras de jeringas y tapabocas para el proceso de vacunación para la población colombiana e internacional. La empresa necesita afinar el sistema de información, para optimizar las operaciones y toma de decisiones de la organización. 
 
