@@ -3,8 +3,6 @@ se espera que cada estudiante IDENTIFIQUE UN PROBLEMA a ser desarrollado desde e
 
 - ¿Qué problema u oportunidad va a cubrir mi proyecto?
 - ¿Qué necesidad intenta subsanar?
-
-Realice una presentación donde explique
 - Para que empresa, entidad o sector va dirigida
 - El Problema a subsanar
 - Justificación ¿Por qué el proyecto es necesario para el área de ingeniería de sistemas?
