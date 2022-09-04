@@ -1,11 +1,12 @@
 # La actividad consiste en:
 
 1. Teniendo en cuenta sus conocimientos previos en bases de datos se debe dar respuesta a los siguientes interrogantes con sus propias palabras y en caso de tomar como base a un autor hacer referencia de este; cada respuesta debe tener mínimo 50 palabras y máximo 100 palabras.
-  a. ¿Qué es una entidad y sus características?
-  b. ¿Qué es un Atributo?
-  c. ¿Qué es una relación y como se articula con los términos llave foránea y llave primaria?
-  d. ¿En qué consiste la cardinalidad?
-  e. ¿Qué es un modelo entidad relación?
+
+  - ¿Qué es una entidad y sus características?
+  - ¿Qué es un Atributo?
+  - ¿Qué es una relación y como se articula con los términos llave foránea y llave primaria?
+  - ¿En qué consiste la cardinalidad?
+  - ¿Qué es un modelo entidad relación?
   
 2. Leer detenidamente el siguiente planteamiento del problema, con la finalidad de diseñar el diagrama entidad relación teniendo en cuenta la identificación de las entidades, atributos y relaciones.
 
