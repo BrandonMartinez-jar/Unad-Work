@@ -74,5 +74,5 @@ Es una manera gráfica de representar el planeamiento de una base de datos expon
 - Curso de Fundamentos de Bases de Datos. (s. f.). http://platzi.com/cursos/bd/. Recuperado 3 de septiembre de 2022, de http://platzi.com/cursos/bd/
 - Database_foundations_course_es.pdf. (s. f.). Recuperado 3 de septiembre de 2022, de https://academy.oracle.com/pages/database_foundations_course_es.pdf
 - Guia-Normas-APA-7ma-edicion.pdf. (s. f.). Recuperado 3 de septiembre de 2022, de https://normas-apa.org/wp-content/uploads/Guia-Normas-APA-7ma-edicion.pdf
-
+- José Juan Sánchez Hernández. Recuperado 3 de septiembre de 2022, de https://josejuansanchez.org/bd/
 
